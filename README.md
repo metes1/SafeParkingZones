@@ -2,7 +2,7 @@
 
 An android application that provides the locations and stats for nearest and safest parking zones in the city of Chicago.
 
-Classes written by Seda Mete:
+Classes written:
 Insertion.java, Location.java, Merge.java, Sort.java
 
 ## Getting Started
